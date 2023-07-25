@@ -83,7 +83,7 @@ const Con = (obj) => {
     districtName: obj.district_name,
     stateId: obj.state_id,
     cases: obj.cases,
-    cured: obj.cases,
+    cured: obj.cured,
     active: obj.active,
     deaths: obj.deaths,
   };
